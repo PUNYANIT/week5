@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #fff;
+  border-bottom: 2px solid #ccc;
+  padding: 10px;
+  overflow: auto;
+}
+
+.logo {
+  float: left;
+  width: 80px;
+  margin-right: 20px;
+}
+
+.nav {
+  float: right;
+  margin-top: 30px;
+}
+
+.nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.hero {
+  background-color: #f8f9fa;
+  padding: 40px;
+  overflow: auto;
+}
+
+.hero-text {
+  float: left;
+  width: 50%;
+  padding: 20px;
+}
+
+.hero-img {
+  float: right;
+  width: 40%;
+  border: 2px solid #333;
+  border-radius: 10px;
+}
+
+.section {
+  padding: 30px;
+  overflow: auto;
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+}
+
+.section-img {
+  float: left;
+  width: 40%;
+  margin-right: 20px;
+  border: 1px solid #aaa;
+}
+
+.section-text {
+  float: left;
+  width: 50%;
+}
